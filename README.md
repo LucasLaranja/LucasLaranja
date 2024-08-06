@@ -15,7 +15,6 @@
 
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaranja&layout=compact)
 
 Estudante de engenharia da computação, focado em tecnologia para mudar o mundo.
 
