@@ -1,6 +1,6 @@
 ### Oi, bem vindo ao meu Github, Meu nome é Lucas Laranja🤖
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmlaranja/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.m.laranja@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmlaranja/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.m.laranja@gmail.com)
 
 ![Lucas Laranja GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLaranja&show_icons=true&theme=synthwave)
 
