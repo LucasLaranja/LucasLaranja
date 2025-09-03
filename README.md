@@ -40,6 +40,7 @@ Emitido por **Amazon Web Services (AWS)**
 ###  Projetos em destaque
 - [🧪 CI/CD com FastAPI + GitHub Actions + ArgoCD](https://github.com/LucasLaranja/app-projeto) → *Pipeline automatizado com deploy em Kubernetes*  
 - [📦 Repositório GitOps com manifests Kubernetes](https://github.com/LucasLaranja/hello-manifests) → *Estratégia declarativa de entrega contínua*  
+- [Projeto WordPress](https://github.com/LucasLaranja/ProjetoWordPress) → *Deploy de aplicação WordPress na AWS utilizando EC2, RDS, EFS e Load Balancer. Configuração automatizada com scripts e versionamento via Git.*  
 
 ---
 
