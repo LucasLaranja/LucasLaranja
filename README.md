@@ -15,7 +15,7 @@ Sou **Lucas M. Laranja**, apaixonado por tecnologia, automação e segurança �
 ### 🏅 Certificações  
 
 <a href="https://www.credly.com/badges/a6fe4afb-c3ea-45cb-8b93-094a155de431/public_url" target="_blank">
-  <img src="https://images.credly.com/size/220x220/images/0c6d5d6f-8b6b-4f71-8d4c-71af9d4d12b1/image.png" width="120px" alt="AWS Cloud Practitioner"/>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner badge">
 </a>  
 
 **AWS Certified Cloud Practitioner (CLF-C02)**  
