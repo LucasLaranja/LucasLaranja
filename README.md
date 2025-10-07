@@ -7,7 +7,7 @@ Sou **Lucas M. Laranja**, apaixonado por tecnologia, automação e segurança �
 ---
 
 🎓 **Último período de Engenharia da Computação**  
-🔐 **Estagiário DevSecOps na Compass UOL**  
+🔐 **Analista DevOps na Sysmanager atuando no Grupo Globo**  
 ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**  
 
 ---
